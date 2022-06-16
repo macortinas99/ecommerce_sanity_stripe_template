@@ -18,6 +18,29 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+## How to view deployed website
+Under the About, Releases, and Packages section on the side there is a Environments section. Click on the Production Link where it says Active next to it, then on the following page click "View deployment" and it will open the website in another window. 
+
+## Introduction
+This is a full stack ecommerce website template that can be used as a starter template for other ecommerce websites. Technologies used include React.js/Next.js, Sanity which is a client friendly SQL database, and Stripe integration for payments.
+
+The unique thing about Sanity is that its very fast and easy to set up for the developer. Although the best part is how easy it is for the client to upload/change/delete any products on their store with a simple dashboard and it will make the changes to the website. This gives a good way for the client to have control of what is important on their website, such as their products, prices, details, etc. 
+Using this link you can visit the dashboard that the client would see and how easy it is to use. 
+https://ecommerce-template.sanity.studio/desk/
+
+![image](https://user-images.githubusercontent.com/58274004/173996349-17eb9bf6-1461-41df-bb90-8bc3eca36eff.png)
+![image](https://user-images.githubusercontent.com/58274004/173996387-4fe908ac-8d6f-4fc9-9a27-6a715c9720eb.png)
+![image](https://user-images.githubusercontent.com/58274004/173996482-b1f59df6-d6f6-45bc-819f-72bbda881e13.png)
+![image](https://user-images.githubusercontent.com/58274004/173996544-5fd5bbf1-b1f3-4739-a54f-833d4f685073.png)
+![image](https://user-images.githubusercontent.com/58274004/173996590-9f494598-508f-4a36-b367-a9d98a7049ed.png)
+![image](https://user-images.githubusercontent.com/58274004/173996690-d82fea12-a0fb-48c9-b6fd-fb5063c958dd.png)
+
+
+
+
+
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
